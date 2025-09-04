@@ -38,6 +38,10 @@ body{
     padding-bottom: 5px;
     
 }
+.whatsapp:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px rgba(0,105,91,255);
+  }
 
 .whatsapp img{
     width: 100%;
@@ -59,7 +63,10 @@ body{
     padding-top: 5px;
     padding-bottom: 5px;
 }
-
+.Telegram:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px rgba(21,100,170,255);
+  }
 .Telegram img{
     width: 100%;
     max-width: 25px;
@@ -80,7 +87,10 @@ body{
     padding-top: 5px;
     padding-bottom: 5px;
 }
-
+.Twitter:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px rgba(29,161,210,255);
+  }
 .Twitter img{
     width: 100%;
     max-width: 40px;
@@ -101,7 +111,10 @@ body{
     padding-top: 5px;
     padding-bottom: 5px;
 }
-
+.insta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px rgba(220,124,1,255);
+  }
 .insta img{
     width: 100%;
     max-width: 40px;
@@ -121,7 +134,10 @@ body{
     padding-top: 5px;
     padding-bottom: 5px;
 }
-
+.youtube:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px rgba(220,0,0,255);
+  }
 .youtube img{
     width: 100%;
     max-width: 40px;
@@ -143,7 +159,10 @@ body{
     padding-bottom: 5px;
     
 }
-
+.linked:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 20px rgba(14,71,161,255);
+  }
 .linked img{
     width: 100%;
     max-width: 30px;
